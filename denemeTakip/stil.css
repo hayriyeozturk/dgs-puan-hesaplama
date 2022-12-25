@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*PROFİL*/
+.date {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.date span {
+    font-size: 2rem;
+}
+
+/**/
+.col-sm-12 {
+    text-align: center;
+}
